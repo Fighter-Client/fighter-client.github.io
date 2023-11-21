@@ -7,6 +7,6 @@ A client for them all
 Anarchy Client
 
 ## Future Clients
-PvP Client
+PvP Client,
 
 General Use Client
